@@ -17,7 +17,7 @@ The next step is to clone the forked version of this repository. On the main pag
 
 Then use the command in your terminal:
 
-```
+```shell
 git clone https://github.com/<your_github_username>/uts-progsoc-git-workshop.git
 ```
 
